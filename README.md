@@ -9,11 +9,5 @@
 - Приветственное сообщение
 - Поддержка русского языка
 
-## Установка и запуск
-```bash
-pip install -r requirements.txt
-python bot/telegram_bot.py
-```
-
 ## Модель
 - `csebuetnlp/mT5_multilingual_XLSum`
